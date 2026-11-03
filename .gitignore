@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+
+# Xcode
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+
+# Optional: Package.resolved für Bibliotheken nicht committen
+# Package.resolved
